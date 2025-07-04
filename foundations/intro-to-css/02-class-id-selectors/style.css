@@ -1,0 +1,26 @@
+p {
+    background-color: rgb(206, 179, 179);
+    font-size: 18px;
+}
+
+.cool {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+#div1 {
+    font-size: 22px;
+    color: rgb(0, 0, 255);
+    font-weight: bold;
+}
+
+#div2 {
+    font-size: 18px;
+    background-color: rgb(16, 247, 16);
+    font-weight: 1000;
+}
+
+#div3 {
+    font-size: 2rem;
+    font-family: monospace;
+}
